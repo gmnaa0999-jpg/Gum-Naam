@@ -1,0 +1,6 @@
+{
+  "name": "Apex Growth Labs",
+  "description": "A modern, conversion-focused single-page website for Apex Growth Labs, a boutique digital marketing agency specializing in high-ROI growth for SMBs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
